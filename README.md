@@ -1,3 +1,3 @@
 Beginnings of the documentation of a framework called Grigora X, based on the architecture [ECS](https://en.wikipedia.org/wiki/Entity_component_system)
 
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"><text xml:space="preserve" style="font-size:142.752px;fill:#fff;stroke:#fff;stroke-width:1.487;paint-order:stroke fill markers" x="4.898" y="109.963"><tspan x="4.898" y="109.963" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:142.752px;font-family:&quot;DM Sans&quot;;-inkscape-font-specification:&quot;DM Sans&quot;;fill:#000;stroke-width:1.487">G</tspan></text></svg>
+<a href="https://rooartificial.github.io/Grigora-X/"><img align="right" src="./gh-assets/G.svg" alt="G_Icon">
