@@ -1,0 +1,19 @@
+site_url: https://rooartificial.github.io/Grigora-X/
+
+site_name: Grigora X Documentation
+theme:
+  name: 'material'
+  logo: img/favicon.svg
+  favicon: img/favicon.svg
+
+plugins:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: es
+          name: Español
+          build: true
